@@ -3,12 +3,14 @@
  */
 
 import React, {Component} from 'react';
-import { StyleSheet, Text, View, TouchableOpacity, Alert, SectionList, FlatList, Dimensions} from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity, Alert, SectionList, FlatList, Dimensions, Image} from 'react-native';
 
 import {CompanyInfo} from './CompanyInformation'
+import {Images} from './Images'
 
 
 const deviceWidth = Dimensions.get('window').width
+const deviceHeight = Dimensions.get('window').height
 
 export default class FlatInSection extends Component {
 
@@ -51,22 +53,13 @@ export default class FlatInSection extends Component {
                                         {/*One complete item view*/}
                                         <View style={styles.itemContainer}>
 
-                                            {/*Left side view*/}
-                                            <View style={styles.applicationStatusContainer}>
-                                                <Text style={[styles.applicationStatus,{backgroundColor:item.backgroundColor}]}>{item.applicationStatus}</Text>
-                                            </View>
-
                                             {/*Main Content view*/}
                                             <View style={styles.applicationDetailsContainer}>
-                                                <Text style={styles.organization}>{item.organization}</Text>
-                                                <Text style={styles.designation}>{item.designation}</Text>
-                                                <Text style={styles.skills}>{item.skills}</Text>
+                                                <Text style={[styles.organization, {fontSize: 8}]}>{'FROM'}</Text>
+                                                <Text style={styles.organization}>{item.cost}</Text>
                                             </View>
-
-                                            {/*Right side view*/}
-                                            <View style={styles.applicationTimerContainer}>
-                                                <Text style={styles.applicationTimerStatus}>{item.updatedTime}</Text>
-                                            </View>
+                                            <Image style={{width: (deviceWidth/2) - 50, height: (deviceWidth/2) - 50, marginLeft: 20, overflow: 'hidden', resizeMode: 'contain', backgroundColor:'white'}}
+                                                   source={Images.shoe01}/>
 
                                         </View>
 
@@ -97,13 +90,19 @@ const styles = StyleSheet.create({
     item: {
         flex: 1,
         flexDirection: 'column',
-        backgroundColor: 'white',
+        backgroundColor: 'gray',
         width: deviceWidth / 2,
+        height: deviceHeight / 2,
+        padding:5,
     },
     itemContainer: {
         flex: 1,
-        flexDirection: 'row',
+        flexDirection: 'column',
         backgroundColor: 'white',
+        justifyContent:'flex-start',
+        alignItems:'flex-end',
+
+        padding:20,
     },
 
     /**
@@ -141,7 +140,7 @@ const styles = StyleSheet.create({
      */
     /*Main*/
     applicationTimerContainer: {
-        width: '24%',
+        width: '70%',
         padding: '3%'
     },
     applicationTimerStatus: {
@@ -157,16 +156,27 @@ const styles = StyleSheet.create({
      */
     /*Main*/
     applicationDetailsContainer: {
-        width: '52%',
-        alignItems:'flex-start',
-        paddingTop:'4%',
-        paddingBottom:'4%',
+        width: (deviceWidth/6),
+        height: (deviceWidth/6),
+        borderRadius:((deviceWidth/12)),
+        padding:'8%',
+        backgroundColor:'white',
+        flexDirection: 'column',
+        alignItems:'center',
+        justifyContent:'center',
+        borderWidth:0.5,
+        borderColor:'gray',
+
+        backgroundColor:'white'
+
     },
 
     /*Sub*/
     organization: {
         textAlign: 'left',
-        fontSize: 11,
+        fontSize: 12,
+        justifyContent:'center',
+        alignItems:'center',
     },
     designation: {
         textAlign: 'left',
