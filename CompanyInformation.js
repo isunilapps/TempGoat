@@ -17,7 +17,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -25,7 +26,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -33,7 +35,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -41,7 +44,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -49,7 +53,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -57,7 +62,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
 
             ],
@@ -73,7 +79,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -81,7 +88,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -89,7 +97,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -97,7 +106,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -105,7 +115,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -113,7 +124,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -121,7 +133,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -129,7 +142,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
 
             ],
@@ -146,7 +160,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -154,7 +169,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
             ],
 
@@ -170,7 +186,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -178,7 +195,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -186,7 +204,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -194,7 +213,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -202,7 +222,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -210,7 +231,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -218,7 +240,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -226,7 +249,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -234,7 +258,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -242,7 +267,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
             ],
         },
@@ -257,7 +283,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -265,7 +292,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -273,7 +301,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -281,7 +310,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -289,7 +319,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -297,7 +328,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
 
             ],
@@ -313,7 +345,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -321,7 +354,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -329,7 +363,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -337,7 +372,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -345,7 +381,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -353,7 +390,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -361,7 +399,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -369,7 +408,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
 
             ],
@@ -386,7 +426,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -394,7 +435,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
             ],
 
@@ -410,7 +452,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -418,7 +461,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -426,7 +470,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -434,7 +479,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -442,7 +488,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -450,7 +497,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -458,7 +506,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -466,7 +515,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -474,7 +524,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -482,7 +533,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
             ],
         },
@@ -497,7 +549,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -505,7 +558,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -513,7 +567,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -521,7 +576,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -529,7 +585,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -537,7 +594,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Apple',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
 
             ],
@@ -553,7 +611,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -561,7 +620,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -569,7 +629,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -577,7 +638,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -585,7 +647,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -593,7 +656,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -601,7 +665,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -609,7 +674,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Google',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
 
             ],
@@ -626,7 +692,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -634,7 +701,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
             ],
 
@@ -650,7 +718,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -658,7 +727,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -666,7 +736,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -674,7 +745,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -682,7 +754,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -690,7 +763,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -698,7 +772,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -706,7 +781,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -714,7 +790,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -722,7 +799,8 @@ export var CompanyInfo = {
                     updatedTime:'53mins ago',
                     organization:'Facebook',
                     designation:'JavaScript Developer',
-                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS'
+                    skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
+                    cost:'$100'
                 }
             ],
         },
