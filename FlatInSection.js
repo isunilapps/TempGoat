@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
         flex: 1,
         flexDirection: 'column',
         backgroundColor: 'white',
-        width: deviceWidth,
+        width: deviceWidth / 2,
     },
     itemContainer: {
         flex: 1,
