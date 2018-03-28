@@ -45,27 +45,32 @@ export default class FlatInSection extends Component {
                             pagingEnabled={true}
 
                             renderItem={({item}) =>
+
                                 <TouchableOpacity
-                                    onPress={() => this.onItemDidSelect(item)}>
+                                    onPress={() => this.onItemDidSelect(item)}
+                                    style={styles.itemMainContainer}
 
-                                    <View style={styles.item}>
+                                    activeOpacity={0.8}
+                                >
+                                    <View style={styles.itemContainer01}>
 
-                                        {/*One complete item view*/}
-                                        <View style={styles.itemContainer}>
-
-                                            {/*Main Content view*/}
-                                            <View style={styles.applicationDetailsContainer}>
-                                                <Text style={[styles.organization, {fontSize: 8}]}>{'FROM'}</Text>
-                                                <Text style={styles.organization}>{item.cost}</Text>
-                                            </View>
-                                            <Image style={{width: (deviceWidth/2) - 50, height: (deviceWidth/2) - 50, marginLeft: 20, overflow: 'hidden', resizeMode: 'contain', backgroundColor:'white'}}
-                                                   source={Images.shoe01}/>
-
+                                        {/*Main Content view*/}
+                                        <View style={styles.applicationDetailsContainer}>
+                                            <Text style={[styles.organization, {fontSize: 8}]}>{'FROM'}</Text>
+                                            <Text style={styles.organization}>{item.cost}</Text>
                                         </View>
+                                    </View>
 
-                                        {/*Separation Line view*/}
-                                        <View style={styles.separatorLine}/>
 
+                                    <View style={styles.itemContainer02}>
+
+                                        <Image style={{width: (deviceWidth/2) - 30, height: (deviceWidth/2) - 30, overflow: 'hidden', resizeMode: 'contain', backgroundColor:'transparent'}}
+                                               source={Images.shoe01}/>
+
+                                        <View style={styles.applicationDetailsContainerTop}>
+                                            <Text style={[styles.organization, {fontSize: 8}]}>{item.model}</Text>
+                                            <Text style={styles.organization}>{item.name}</Text>
+                                        </View>
                                     </View>
                                 </TouchableOpacity>
                             }
@@ -85,70 +90,30 @@ export default class FlatInSection extends Component {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor:'white',
+        backgroundColor:'transparent',
     },
-    item: {
+
+    itemMainContainer: {
         flex: 1,
-        flexDirection: 'column',
-        backgroundColor: 'gray',
         width: deviceWidth / 2,
         height: deviceHeight / 2,
-        padding:5,
-    },
-    itemContainer: {
-        flex: 1,
-        flexDirection: 'column',
-        backgroundColor: 'white',
-        justifyContent:'flex-start',
-        alignItems:'flex-end',
-
         padding:20,
+        borderColor:'#d3d3d3',
+        borderWidth:3
     },
-
-    /**
-     * Separator Line
-     */
-    separatorLine: {
-        height: 0.5,
-        backgroundColor: 'gray',
-        marginLeft: '3%',
-        marginRight: '3%',
+    itemContainer01: {
+        flex: 0.3,
+        flexDirection: 'column',
+        alignItems:'flex-end',
+        justifyContent:'flex-end',
+        // backgroundColor:'blue',
     },
-
-
-    /**
-     * Left side view
-     */
-    /*Main*/
-    applicationStatusContainer: {
-        width: '24%',
-        padding:'3%',
-    },
-    applicationStatus: {
-        padding:'3%',
-        textAlign:'center',
-        textAlignVertical:'center',
-        fontSize: 8.5,
-        borderRadius:2.5,
-        backgroundColor:'green',
-        color:'white',
-        overflow:'hidden',
-    },
-
-    /**
-     * Right side view
-     */
-    /*Main*/
-    applicationTimerContainer: {
-        width: '70%',
-        padding: '3%'
-    },
-    applicationTimerStatus: {
-        fontSize: 10.5,
-        color:'gray',
-        overflow:'hidden',
-        textAlign:'right',
-        textAlignVertical:'auto',
+    itemContainer02: {
+        flex: 0.7,
+        flexDirection: 'column',
+        alignItems:'center',
+        justifyContent:'center',
+        // backgroundColor:'green',
     },
 
     /**
@@ -156,19 +121,23 @@ const styles = StyleSheet.create({
      */
     /*Main*/
     applicationDetailsContainer: {
-        width: (deviceWidth/6),
-        height: (deviceWidth/6),
-        borderRadius:((deviceWidth/12)),
-        padding:'8%',
+        width: (deviceWidth/7),
+        height: (deviceWidth/7),
+        borderRadius:((deviceWidth/14)),
         backgroundColor:'white',
         flexDirection: 'column',
         alignItems:'center',
         justifyContent:'center',
         borderWidth:0.5,
         borderColor:'gray',
+    },
 
-        backgroundColor:'white'
-
+    applicationDetailsContainerTop: {
+        width: (deviceWidth/2) - 30,
+        padding:'8%',
+        flexDirection: 'column',
+        alignItems:'center',
+        justifyContent:'center',
     },
 
     /*Sub*/
@@ -177,14 +146,5 @@ const styles = StyleSheet.create({
         fontSize: 12,
         justifyContent:'center',
         alignItems:'center',
-    },
-    designation: {
-        textAlign: 'left',
-        fontSize: 16,
-    },
-    skills: {
-        textAlign: 'left',
-        fontSize: 12,
-        color: 'gray',
     },
 });

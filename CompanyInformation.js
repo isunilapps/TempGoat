@@ -18,7 +18,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -27,7 +29,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -36,7 +40,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -45,7 +51,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -54,7 +62,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -63,7 +73,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
 
             ],
@@ -80,7 +92,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -89,7 +103,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -98,7 +114,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -107,7 +125,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -116,7 +136,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -125,7 +147,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -134,7 +158,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -143,7 +169,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
 
             ],
@@ -161,7 +189,9 @@ export var CompanyInfo = {
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -170,7 +200,9 @@ export var CompanyInfo = {
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
             ],
 
@@ -187,7 +219,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -196,7 +230,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -205,7 +241,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -214,7 +252,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -223,7 +263,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -232,7 +274,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -241,7 +285,10 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
+
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -250,7 +297,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -259,7 +308,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -268,7 +319,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
             ],
         },
@@ -284,7 +337,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -293,7 +348,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -302,7 +359,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -311,7 +370,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -320,7 +381,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -329,7 +392,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
 
             ],
@@ -346,7 +411,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -355,7 +422,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -364,7 +433,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -373,7 +444,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -382,7 +455,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -391,7 +466,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -400,7 +477,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -409,7 +488,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
 
             ],
@@ -427,7 +508,9 @@ export var CompanyInfo = {
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -436,7 +519,9 @@ export var CompanyInfo = {
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
             ],
 
@@ -453,7 +538,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -462,7 +549,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -471,7 +560,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -480,7 +571,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -489,7 +582,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -498,7 +593,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -507,7 +604,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -516,7 +615,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -525,7 +626,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -534,7 +637,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
             ],
         },
@@ -550,7 +655,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -559,7 +666,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -568,7 +677,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -577,7 +688,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -586,7 +699,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -595,7 +710,9 @@ export var CompanyInfo = {
                     organization:'Apple',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
 
             ],
@@ -612,7 +729,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -621,7 +740,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -630,7 +751,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -639,7 +762,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -648,7 +773,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -657,7 +784,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -666,7 +795,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -675,7 +806,9 @@ export var CompanyInfo = {
                     organization:'Google',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
 
             ],
@@ -693,7 +826,9 @@ export var CompanyInfo = {
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -702,7 +837,9 @@ export var CompanyInfo = {
                     organization:'CALIBRAINT',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
             ],
 
@@ -719,7 +856,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -728,7 +867,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -737,7 +878,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -746,7 +889,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationPostponed,
@@ -755,7 +900,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -764,7 +911,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -773,7 +922,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationRSVP,
@@ -782,7 +933,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationApproved,
@@ -791,7 +944,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 },
                 {
                     applicationStatus:Constant.applicationCancelled,
@@ -800,7 +955,9 @@ export var CompanyInfo = {
                     organization:'Facebook',
                     designation:'JavaScript Developer',
                     skills:'JavaScript, WebStorm, XML, CSS, HTML, NodeJS, AngularJS',
-                    cost:'$100'
+                    cost:'$100',
+                    model:'OG Old Skool LX',
+                    name:'Red Dahila',
                 }
             ],
         },
